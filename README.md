@@ -7,5 +7,5 @@
 - [graphQL](https://github.com/RoyS122/graphQL) is a short project i made for school.
 - [JamesonSnake](https://github.com/RoyS122/JamesonSnake) is a JS game inspired by Super Mario made with group at school.
 
-###Github Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=RoyS122&theme=juicyfresh)](https://github.com/RoyS122/github-profile-trophy)
+### Github Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=RoyS122&theme=juicyfresh)
