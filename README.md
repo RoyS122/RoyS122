@@ -1,7 +1,7 @@
 ## RoyS
 
 ### Projects: 
-- [ProjectEuler](https://github.com/RoyS122/ProjectEuler), i want to complete this repo with my solitions to the ProjectEuler in differents languages
+- [ProjectEuler](https://github.com/RoyS122/ProjectEuler), i want to complete this repo with my solutions to the ProjectEuler in differents languages
 - [Soulshotel](https://github.com/RoyS122/SoulsHotel) is the second version of a game i made a long time ago, but without any game engine.
 - [EasyRSS](https://github.com/RoyS122/EasyRSS/) is a starting project of rss flux aggregator.
 - [graphQL](https://github.com/RoyS122/graphQL) is a short project i made for school.
