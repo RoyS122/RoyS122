@@ -8,5 +8,8 @@
 - [JamesonSnake](https://github.com/RoyS122/JamesonSnake) is a JS game inspired by Super Mario made with group at school.
 - [Mini-JS-GameEngine](https://github.com/RoyS122/Mini-JS-GameEngine) is a JS minmalist game engine!
 
+### ProjectEuler
+![Project euler](https://projecteuler.net/profile/SimonRoy.png)
 ### Github Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=RoyS122&theme=juicyfresh)
+
