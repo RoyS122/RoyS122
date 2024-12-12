@@ -10,6 +10,8 @@
 
 ### ProjectEuler
 ![Project euler](https://projecteuler.net/profile/SimonRoy.png)
+### Codewars
+![Codewars](https://www.codewars.com/users/RoyS122/badges/large)
 ### Github Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=RoyS122&theme=juicyfresh)
 
