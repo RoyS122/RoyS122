@@ -7,6 +7,7 @@
 - [graphQL](https://github.com/RoyS122/graphQL) is a short project i made for school.
 - [JamesonSnake](https://github.com/RoyS122/JamesonSnake) is a JS game inspired by Super Mario made with group at school.
 - [Mini-JS-GameEngine](https://github.com/RoyS122/Mini-JS-GameEngine) is a JS minmalist game engine!
+- [GoDeflateCompression](https://github.com/RoyS122/GoDeflateCompression) is a golang written Deflate (LZ77 + Huffman) implementation
 
 ### ProjectEuler
 ![Project euler](https://projecteuler.net/profile/SimonRoy.png)
